@@ -1,4 +1,4 @@
-AYOKO NA AYOKO NA QUIT PROGRAMMING
+Most of the time IDK...
 
 <!--
 **pransel17/pransel17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
