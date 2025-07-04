@@ -3,7 +3,7 @@ Most of the time IDK...
 
 Note to Myself:
 
-"It doesn’t have to be perfect, it just has to be done. Every line of code you write is progress. Make it exist first then you can make it perfect later." 🐢🫶
+"It doesn’t have to be perfect, it just has to be done. Every line of code you write is progress. Make it exist first then you can make it perfect later." 🐢
 
 
 <!--
