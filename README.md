@@ -1,10 +1,7 @@
 Most of the time IDK...
 -----------------------
-
-Note to Myself:
-
-"Every line of code you write is progress.
-Make it exist first then you can make it perfect later." 🐢
+Every line of code you write is progress.
+Make it exist first then you can make it perfect later. 🐢
 
 
 <!--
