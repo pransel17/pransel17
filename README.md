@@ -1,4 +1,4 @@
-Most of the time IDK... but make it exist first then you can make it perfect later. 🐢
+Most of the time IDK... but make it exist first then make it perfect later. 🐢
 
 
 <!--
